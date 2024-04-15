@@ -50,8 +50,8 @@
 
 ## 📝 Publications
 ### International Journals
-- [**Real-Time Memory Efficient Multitask Learning Model for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10109860) - IEEE Transactions on Intelligent Vehicles Vol. 9, January 2024
-- [**Joint Multiclass Object Detection and Semantic Segmentation for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10098794) - IEEE Access Vol. 11, April 2023
+- [**Real-Time Memory Efficient Multitask Learning Model for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10109860) - IEEE T-IV, Vol. 9, January 2024
+- [**Joint Multiclass Object Detection and Semantic Segmentation for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10098794) - IEEE Access, Vol. 11, April 2023
 
 ### International Journals
 
