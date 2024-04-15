@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/-C%23-1C1678?style=flat-square&logo=C%23&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-1679AB?style=flat-square&logo=dart&logoColor=white"/>
 </p>
+<h2>Languages I code with</h2>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
 
 <h2>Tools I use</h2>
 <p>
