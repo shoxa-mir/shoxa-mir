@@ -22,7 +22,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
 
 <!--
 **shoxa-mir/shoxa-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
