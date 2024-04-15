@@ -5,9 +5,9 @@
 <h3>Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-FCC624?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-1C1678?style=flat-square&logo=C%23&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-FCC624?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-1C1678?style=flat-square&logo=C%23&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-1679AB?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flar-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
 </p>
 
 <h3>Tools</h3>
