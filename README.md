@@ -54,7 +54,7 @@
 - [**Joint Multiclass Object Detection and Semantic Segmentation for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10098794) - IEEE Access, Vol. 11, April 2023
 
 ### International Journals
-- [**Edge Device Deployment of Multi-Tasking Network for Self-Driving Operationsg**](https://www.earticle.net/Article/A419744) - The 8^th ICNGC, November 2022
+- [**Edge Device Deployment of Multi-Tasking Network for Self-Driving Operationsg**](https://www.earticle.net/Article/A419744) - The 8**th ICNGC, November 2022
 - [**Real-Time Memory Efficient Multitask Learning Model for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10109860) - IEEE T-IV, Vol. 9, January 2024
 - [**Real-Time Memory Efficient Multitask Learning Model for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10109860) - IEEE T-IV, Vol. 9, January 2024
 
