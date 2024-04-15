@@ -54,6 +54,9 @@
 - [**Real-Time Memory Efficient Multitask Learning Model for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10109860) - IEEE Accessn Vol 11 April 2023
 
 ## 📝 Publications
+- [**Joint multiclass object detection and semantic segmentation for autonomous driving**](https://ieeexplore.ieee.org/abstract/document/10098794) - IEEE Accessn Vol 11 April 2023
+- [**Real-Time Memory Efficient Multitask Learning Model for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10109860) - IEEE Accessn Vol 11 April 2023
+
 ## 🖊️Skills
 
 <h3>International Conferences</h3>
