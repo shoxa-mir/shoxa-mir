@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-C%23-1C1678?style=C%23&logo=C%23&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-FCC624?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-1679AB?style=flat&logo=dart&logoColor=white"/>
 </p>
 
 
