@@ -51,7 +51,7 @@
 <h2>Publications</h2>
 <h3>International Journals</h3>
 <p>
-  -[Joint multiclass object detection and semantic segmentation for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10098794/) - IEEE Access April 2023
+  - [Joint multiclass object detection and semantic segmentation for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10098794/) - IEEE Access April 2023
 </p>
 
 <h3>International Conferences</h3>
