@@ -26,7 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=falt-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-342B029.svg?&style=falt-square&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
