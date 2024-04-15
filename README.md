@@ -4,6 +4,7 @@
 <h3>Things I code with</h3>
 <p>
   <img src="https://img.shields.io/badge/-C++-000000?style=C++&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-C#-000000?style=C#&logo=c%2B%2B&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
