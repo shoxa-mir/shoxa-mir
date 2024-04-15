@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white"/>
 </p>
 
