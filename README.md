@@ -39,7 +39,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Conda-342B029.svg?&style=falt-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
