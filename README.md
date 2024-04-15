@@ -48,6 +48,10 @@
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<h2>Publications/h2>
+<p>
+  [A Study on Traffic Vulnerable Detection Using Object Detection-Based Esemble](http://www.ibookkorea.net/Viewer/KSCI_29_01) - JKSCI Vol.29 No.1 pp. 61-68 January 2024
+</p>
 
 <!--
 **shoxa-mir/shoxa-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
