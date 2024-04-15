@@ -8,9 +8,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-FCC624?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
 </p>
+
+
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
 
 <!--
 **shoxa-mir/shoxa-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
