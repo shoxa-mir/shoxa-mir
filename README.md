@@ -13,7 +13,11 @@
 
 <h3>Libraries</h3>
 <p>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white"/>
 </p>
 
 <h3>Frameworks</h3>
@@ -22,6 +26,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lightning-792DE4?style=flar-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flar-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
