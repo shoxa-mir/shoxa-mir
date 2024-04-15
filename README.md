@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-3776AB%3Fstyle%3Dflat%26logo%3DPython%26logoColor%3Dwhite%22">
+  <img src="https://img.shields.io/badge/C%23-3776AB%3Fstyle%3Dflat%26logo%3DC%23%26logoColor%3Dwhite%22">
+
 </p>
 
 <!--
