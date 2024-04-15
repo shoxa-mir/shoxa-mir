@@ -58,6 +58,14 @@
 - [**Performance Comparison of Backbone Networks for Multi-Tasking in Self-Driving Operations**](https://ieeexplore.ieee.org/abstract/document/10003816) - The 22nd ICCAS, December 2022
 - [**Edge Device Deployment of Multi-Tasking Network for Self-Driving Operationsg**](https://www.earticle.net/Article/A419744) - The 8th ICNGC, November 2022
 
+## Where to find me
+<p>
+  <a href="https://github.com/shoxa-mir" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
+  <a href="https://facebook.com/shoxa.miraliev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" /></a>
+</p>
+
 <!--
 **shoxa-mir/shoxa-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
