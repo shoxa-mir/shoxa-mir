@@ -50,10 +50,10 @@
 
 <h2>Publications</h2>
 <h3>International Journals</h3>
-- [Joint multiclass object detection and semantic segmentation for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10098794/) - IEEE Access April 2023
+- [**Joint multiclass object detection and semantic segmentation for autonomous driving**](https://ieeexplore.ieee.org/abstract/document/10098794) - IEEE Accessn Vol 11 April 2023
+- [**Real-Time Memory Efficient Multitask Learning Model for Autonomous Driving**](https://ieeexplore.ieee.org/abstract/document/10109860) - IEEE Accessn Vol 11 April 2023
 
 ## 📝 Publications
-- [A Study on Traffic Vulnerable Detection Using Object Detection-Based Esemble](http://www.ibookkorea.net/Viewer/KSCI_29_01) - JKSCI Vol.29 No.1 pp. 61-68 January 2024
 ## 🖊️Skills
 
 <h3>International Conferences</h3>
