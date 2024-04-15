@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=2C7865&text=Hello,%20I%20am%20Shokhrukh%20M.&section=header&reversal=false&textBg=false&fontColor=2C7865&fontAlign=50&fontSize=60&animation=twinkling&strokeWidth=1&stroke=FFFFFF&descAlign=31&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=2C7865&text=Hello,%20I%20am%20Shokhrukh%20M.&section=header&reversal=false&textBg=false&fontColor=2C7865&fontAlign=50&fontSize=60&animation=twinkling&strokeWidth=1&stroke=FFFFFF&descAlign=31&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist&descAlignY=67)
 
 <!--
 **shoxa-mir/shoxa-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
