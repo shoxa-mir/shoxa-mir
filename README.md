@@ -13,7 +13,7 @@
 
 <h3>Libraries</h3>
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
 </p>
 
 <h3>Frameworks</h3>
