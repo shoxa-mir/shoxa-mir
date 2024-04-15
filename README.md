@@ -65,7 +65,7 @@
   <a href="https://medium.com/@shoxamiraliev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://facebook.com/shoxa.miraliev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0003-2995-561X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://leetcode.com/Shoxa-Mir/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://scholar.google.com/citations?user=Ta19ulQAAAAJ" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
 <!--
