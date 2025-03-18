@@ -56,7 +56,7 @@
 ### International Journals
 - [**Traffic Light Recognition in Autonomous Driving: Comparison of YOLOv7 and CenterNet2 with HSV Post-Processing**](https://ieeexplore.ieee.org/abstract/document/10317045) - The 23rd ICCAS, October 2023
 - [**Performance Comparison of Backbone Networks for Multi-Tasking in Self-Driving Operations**](https://ieeexplore.ieee.org/abstract/document/10003816) - The 22nd ICCAS, December 2022
-- [**Edge Device Deployment of Multi-Tasking Network for Self-Driving Operationsg**](https://www.earticle.net/Article/A419744) - The 8th ICNGC, November 2022
+- [**Edge Device Deployment of Multi-Tasking Network for Self-Driving Operations**](https://www.earticle.net/Article/A419744) - The 8th ICNGC, November 2022
 
 ## Where to find me
 <p>
