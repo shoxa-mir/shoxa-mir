@@ -4,7 +4,7 @@
 ## 👨‍💻 I code with
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-1C1678?style=for-the-badge&logo=C%23&logoColor=white" />
